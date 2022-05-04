@@ -1,0 +1,1 @@
+creating the first linearlayout and add another linearlayout inside the first linearlayout

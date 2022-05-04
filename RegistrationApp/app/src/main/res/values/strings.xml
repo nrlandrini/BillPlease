@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Registration App</string>
+    <string name="text">Registration Form</string>
+    <string name="message">Welcome to Adventure Learning Club!</string>
+    <string name="horizontalLine">------------------------------------------------------------</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="studentId">Student ID:</string>
+    <string name="school">School:</string>
+    <string name="email">E-mail:</string>
+    <string name="phone">Phone:</string>
+    <string name="name">Full Name:</string>
+    <string name="gender">Gender:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="no">Prefer not to say</string>
+    <string name="register">Register</string>
+    <string name="ID">12345678</string>
+    <string name="emailex">12345678@myrp.edu.sg</string>
+
+</resources>
