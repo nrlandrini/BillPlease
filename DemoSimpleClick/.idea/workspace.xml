@@ -25,10 +25,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b9f823e-7c85-495a-ab91-7ec443821740" name="Default Changelist" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/drawable/anotherbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/drawable/calculator.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/drawable/lastbox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/drawable/my_btn_toggle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/drawable/rectanglebox.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/font/abhaya_libre.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/font/caesar_dressing.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/values/font_certs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/values/preloaded_fonts.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../RegistrationApp/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../BillPlease/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../BillPlease/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BillPlease/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BillPlease/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BillPlease/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BillPlease/app/src/main/java/sg/edu/rp/c346/id21021749/billplease/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/java/sg/edu/rp/c346/id21021749/billplease/MainActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../BillPlease/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BillPlease/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BillPlease/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BillPlease/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +50,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_API_30]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -59,6 +73,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDK Location" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -148,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651644058144</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <created>1651644760649</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1651644760649</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,6 +183,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -169,21 +192,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1651640106494">
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom" timestamp="1651671868761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1651640106494" />
-    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1651640106494">
+    <state width="1236" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1651671868761" />
+    <state width="1236" height="163" key="GridCell.Tab.0.center" timestamp="1651671868761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1651640106494" />
-    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1651640106494">
+    <state width="1236" height="163" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1651671868761" />
+    <state width="1236" height="163" key="GridCell.Tab.0.left" timestamp="1651671868761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1651640106494" />
-    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1651640106494">
+    <state width="1236" height="163" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1651671868761" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right" timestamp="1651671868761">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1651640106494" />
+    <state width="1236" height="163" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1651671868761" />
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2" timestamp="1651644762486">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="74" key="Vcs.Push.Dialog.v2/0.0.1280.680@0.0.1280.680" timestamp="1651644762486" />
   </component>
 </project>
